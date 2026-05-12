@@ -52,16 +52,22 @@ IAM team investigates and resolves issue
 
 
 ### Incident Created
-<img src="https://github.com/user-attachments/assets/ec5b3604-6571-41ab-922e-20de226eda32" width="900" />
+<img src="https://github.com/user-attachments/assets/ec5b3604-6571-41ab-922e-20de226eda32" width="1200" />
+
+
 
 ### Incident Queue View
-<img src="https://github.com/user-attachments/assets/17125e5f-8832-4b2e-ac8a-c786b57b0433"  width="1100" />
+<img src="https://github.com/user-attachments/assets/17125e5f-8832-4b2e-ac8a-c786b57b0433"  width="1200" />
+
+
 
 ### Incident Investigation/ In Progress
-<img src="https://github.com/user-attachments/assets/b28bcdd3-46c2-4d22-96cc-0f44f6c1e91d"  width="1100" />
+<img src="https://github.com/user-attachments/assets/b28bcdd3-46c2-4d22-96cc-0f44f6c1e91d"  width="1200" />
+
+
 
 ### Incident Resolved
-<img src="https://github.com/user-attachments/assets/0e433509-5e79-40fa-b9d8-840e34cd13b4"  width="1100" />
+<img src="https://github.com/user-attachments/assets/0e433509-5e79-40fa-b9d8-840e34cd13b4"  width="1200" />
 
 
 ---
